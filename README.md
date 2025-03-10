@@ -1,4 +1,4 @@
-![logo](https://github.com/Supriya-1432/Supriya-1432/blob/main/sai.jpg)
+
 <h1 align="center">Hi 👋, I'm P. Supriya</h1>
 <h3 align="center">A passionate computer science engineering student from India</h3>
 
